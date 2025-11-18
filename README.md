@@ -107,7 +107,7 @@ Plays letter sound using gTTS + playsound.
 
 Visualization
 
-Includes:
+Includes:   
 
 Console classification report
 
